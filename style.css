@@ -24,7 +24,7 @@ body {
 /* Wrapper Styling */
 .game-wrapper {
   width: 100%;
-  max-width: 800px;
+  max-width: 850px;
   margin: 0 auto;
   background-color: #16213e;
   padding: 30px;
@@ -67,7 +67,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
   text-align: center;
-  margin-top: 1%;
+  margin-top: 0;
 }
 
 /* Header Styling */
@@ -86,6 +86,7 @@ header {
 }
 
 .game-subtitle {
+  margin-top: 5%;
   font-size: 1.1rem;
   color: #c8c8c8;
   font-family: 'Press Start 2P', cursive, sans-serif;
